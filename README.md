@@ -100,13 +100,13 @@ This project demonstrates real-time DC motor speed control using PWM (Pulse Widt
 
 ---
 
-## 🏁 Project Outcome
+## Project Outcome
 
 This project successfully demonstrates practical implementation of embedded motor control using STM32. It highlights PWM generation, hardware interfacing, and real-time user input handling.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add LCD for speed display
 * Implement PID control
@@ -115,7 +115,7 @@ This project successfully demonstrates practical implementation of embedded moto
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 * STM32 Embedded Programming
 * PWM Generation
