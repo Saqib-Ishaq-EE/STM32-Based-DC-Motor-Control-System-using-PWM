@@ -53,9 +53,13 @@ This project demonstrates DC motor speed control using PWM (Pulse Width Modulati
 
 ---
 
-## Demo
+## 📸 Demo
 
-(Add your project images here
+![Hardware Image 1](img5.jpg)
+![Hardware Image 2](img7.jpg)
+![Hardware Image 3](img13.jpg)
+![Hardware Image 4](img14.jpg)
+
 ## 🎥 Demo Video
 
 [Watch Motor Running Video](https://drive.google.com/file/d/1DBJ4HqE5uqFQ9R1SAauPwjifIZeeNPna/view?usp=sharing)
