@@ -78,10 +78,10 @@ This project demonstrates real-time DC motor speed control using PWM (Pulse Widt
 
 ### Hardware Setup
 
-![Hardware Demo Image_1](img5.jpg)
-![Hardware Demo Image_2](img7.jpg)
-![Hardware Demo Image_3](img13.jpg)
-![Hardware Demo Image_4](img14.jpg)
+![Hardware Demo Image_1](Hardware setup_1.jpg)
+![Hardware Demo Image_2](Hardware Setup_2.jpg)
+![Hardware Demo Image_3](Hardware setup_3.jpg)
+![Hardware Demo Image_4](Hardware setup_4.jpg)
 
 ---
 
